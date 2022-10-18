@@ -1,5 +1,5 @@
 # 코딩테스트 연습(C)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sacredheart)](https://solved.ac/smin9011/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sacredheart)](https://solved.ac/sacredheart/)
 
 C언어로 코테 준비하는 이유 : 저급 언어를 좋아해서
 
