@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(){
-    int n,tmp,sum=0;
+    int n,sum=0;
     scanf("%d",&n);
     char num[n];
     scanf("%s",num);
