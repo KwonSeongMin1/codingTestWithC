@@ -41,7 +41,9 @@
 		78FA143628FEAAEA0030FB20 = {
 			isa = PBXGroup;
 			children = (
-				78FA144128FEAAEA0030FB20 /* codingTestWithC */,
+				78FA144228FEAAEA0030FB20 /* main.c */,
+				78FA144928FEAB590030FB20 /* baekjoon */,
+				78FA144128FEAAEA0030FB20 /* programmers */,
 				78FA144028FEAAEA0030FB20 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +56,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		78FA144128FEAAEA0030FB20 /* codingTestWithC */ = {
+		78FA144128FEAAEA0030FB20 /* programmers */ = {
 			isa = PBXGroup;
 			children = (
-				78FA144228FEAAEA0030FB20 /* main.c */,
 			);
-			path = codingTestWithC;
+			path = programmers;
+			sourceTree = "<group>";
+		};
+		78FA144928FEAB590030FB20 /* baekjoon */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = baekjoon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
