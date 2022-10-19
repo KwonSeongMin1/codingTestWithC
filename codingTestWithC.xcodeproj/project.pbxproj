@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		78FA14AA28FFF27C0030FB20 /* 2231(숙제).c in Sources */ = {isa = PBXBuildFile; fileRef = 78FA14A628FFEC510030FB20 /* 2231(숙제).c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		78FA143D28FEAAEA0030FB20 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -57,6 +61,9 @@
 		78FA149C28FFDE2B0030FB20 /* 10952.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10952.c; sourceTree = "<group>"; };
 		78FA149E28FFDE840030FB20 /* 10998.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10998.c; sourceTree = "<group>"; };
 		78FA14A028FFDEBF0030FB20 /* 11654.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11654.c; sourceTree = "<group>"; };
+		78FA14A228FFE7510030FB20 /* 1085.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1085.c; sourceTree = "<group>"; };
+		78FA14A428FFEBB70030FB20 /* 4153.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4153.c; sourceTree = "<group>"; };
+		78FA14A628FFEC510030FB20 /* 2231(숙제).c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "2231(숙제).c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +158,8 @@
 				78FA146F28FF931F0030FB20 /* 2562.c */,
 				78FA147128FF93F10030FB20 /* 2884.c */,
 				78FA147328FF95660030FB20 /* 10818.c */,
+				78FA14A228FFE7510030FB20 /* 1085.c */,
+				78FA14A428FFEBB70030FB20 /* 4153.c */,
 			);
 			path = bronze3;
 			sourceTree = "<group>";
@@ -165,6 +174,7 @@
 				78FA148928FFC80F0030FB20 /* 2920.c */,
 				78FA148B28FFCC5B0030FB20 /* 3052.c */,
 				78FA148D28FFCDBB0030FB20 /* 8958.c */,
+				78FA14A628FFEC510030FB20 /* 2231(숙제).c */,
 			);
 			path = bronze2;
 			sourceTree = "<group>";
@@ -235,6 +245,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78FA14AA28FFF27C0030FB20 /* 2231(숙제).c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
